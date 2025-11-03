@@ -1,4 +1,4 @@
-# :warnign: Authentication and Authorization
+# :warning: Authentication and Authorization
 
 ## Objective
 Learn how to do an authentication and authorization based with tokens using Spring Security and JWT with roles.
